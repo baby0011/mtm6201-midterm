@@ -5,7 +5,7 @@
   width: 100%;
   height: 630px;
 }
-
+/* Heading ! */
 h1 {
   position: relative;
   font-size: 30px;
@@ -14,7 +14,7 @@ h1 {
   text-align: right;
   padding-right: 2rem;
 }
-
+/* Styling Navigation */
 .navigation {
   position: relative;
   display: inline-block;
@@ -23,7 +23,7 @@ h1 {
   text-align: center;
   
 }
-
+/* styling navigation lists */
 .navigation li {
   display: inline-block;
   padding-left: 15px;
@@ -39,6 +39,7 @@ h1 {
   color: gray;
   
 }
+/* selecting child elements in lists */
 .navigation li:nth-child(5) {
   padding-left: 15rem;
   color: black;
@@ -50,7 +51,7 @@ h1 {
   border-top: 0.2px solid #BCBAA2;
 
 }
-
+/* Styling logo */
 .logo {
   position: relative;
   width: 2rem;
@@ -72,7 +73,7 @@ header {
   color: white;
   font-size: 2rem;
 }
-
+/* Styling Heading */
 h2 {
   align-content: right;
   padding-left: 36rem;
@@ -87,7 +88,7 @@ h3 {
   margin-top: 0%;
   margin-bottom: 6px;
 }
-
+/* Styling Icons */
 .icon {
   position: absolute;
   font-size: 1rem;
@@ -171,7 +172,7 @@ p{
 .star{
   color: red;
 }
-/* Animations  */
+/*------------Animations-------------- */ */
 .logo{
   animation: JB 1s ease;
 }
