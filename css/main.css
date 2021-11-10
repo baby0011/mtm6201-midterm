@@ -1,0 +1,173 @@
+.background img {
+  position: absolute;
+  padding-top: 2rem;
+
+  width: 100%;
+  height: 630px;
+}
+
+h1 {
+  position: relative;
+  font-size: 30px;
+  background-color: #BCBAA2;
+  color: black;
+  text-align: right;
+  padding-right: 2rem;
+}
+
+.navigation {
+  position: relative;
+  display: inline-block;
+  background: #BCBAA2;
+  width: 100%;
+  text-align: center;
+  
+}
+
+.navigation li {
+  display: inline-block;
+  padding-left: 15px;
+  padding: 1rem;
+  color: black;
+
+}
+.navigation li a{
+  color: black;
+  text-decoration: none;
+}
+.navigation li a:hover{
+  color: gray;
+  
+}
+.navigation li:nth-child(5) {
+  padding-left: 15rem;
+  color: black;
+}
+
+.navigation li:nth-child(1) {
+  background-color: white;
+  padding-bottom: 10px;
+  border-top: 0.2px solid #BCBAA2;
+
+}
+
+.logo {
+  position: relative;
+  width: 2rem;
+  height: 2rem;
+  padding: 1rem;
+  align-items: left;
+}
+
+header {
+
+  padding: 10px;
+
+
+}
+
+.main {
+  position: relative;
+
+  color: white;
+  font-size: 2rem;
+}
+
+h2 {
+  align-content: right;
+  padding-left: 36rem;
+  padding-top: 4.5rem;
+  margin-bottom: 0%;
+}
+
+h3 {
+  color: #BCBAA2;
+  padding-left: 30rem;
+  padding-top: 1px;
+  margin-top: 0%;
+  margin-bottom: 6px;
+}
+
+.icon {
+  position: absolute;
+  font-size: 1rem;
+  color: black;
+  padding: 3px;
+  background: white;
+  margin-left: 53rem;
+}
+
+.social img {
+  position: absolute;
+  width: 9rem;
+  padding-top: 15rem;
+  padding-left: 70rem;
+}
+
+
+/* --------------About page ------------------------- */
+
+.about-banner img{
+  padding-top: 2rem;
+position: absolute;
+ width: 100%;
+ height: 300px;
+}
+.about{
+  padding-top: 10rem;
+  
+}
+h4{
+  position:relative;
+  padding-left: 11rem;
+  font-size: 2rem;
+  margin-bottom: 0%;
+  color:#BCBAA2;
+  padding-top: 10rem;
+  
+}
+p{
+  position:relative;
+  padding-left: 11rem;
+  padding-right: 51rem;
+}
+.social-about img{
+  position: absolute;
+  width: 9rem;
+  padding-top: 5rem;
+  padding-left: 70rem;
+}
+
+/*--------------- Contact-page-----------------------------*/
+.contact{
+  padding-left: 11.1rem;
+  padding-top:1rem ;
+}
+.name{
+  padding-bottom: 1rem;
+  padding-left: 1.2rem;
+}
+.email{
+  padding-left: 1rem;
+}
+
+.sub{
+  padding-left: 0.5rem;
+}
+#yourmail{
+  margin-left: 16rem;
+}
+#message{
+  width: 13rem;
+  padding-left: 14rem;
+  padding-right: 5rem;
+  padding-bottom: 4rem;
+}
+#subject{
+  margin-left: rem;
+  padding-bottom: 4rem;
+  padding-right: 5rem;
+}
+.star{
+  color: red;
+}
