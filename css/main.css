@@ -88,7 +88,7 @@ h3 {
   margin-top: 0%;
   margin-bottom: 6px;
 }
-/* Styling Icons */
+/* Styling */
 .icon {
   position: absolute;
   font-size: 1rem;
@@ -172,7 +172,7 @@ p{
 .star{
   color: red;
 }
-/*------------Animations-------------- */ */
+/* Animations  */
 .logo{
   animation: JB 1s ease;
 }
