@@ -171,3 +171,20 @@ p{
 .star{
   color: red;
 }
+/* Animations  */
+.logo{
+  animation: JB 1s ease;
+}
+@keyframes JB{
+  form {
+    transform: rotateZ(0deg);
+  }
+  to {
+    transform: rotateZ(180deg);
+  }
+}
+.icon:hover {
+  opacity: 0.1; 
+  transition: opacity 1s;
+  transition-timing-function: ease-in;
+}
